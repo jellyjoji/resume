@@ -7,10 +7,10 @@
 - 2018-2019 Incremento.inc / Graphic Designer
 
 ## Skills
-Experienced building design systems
-Capable of making prototypes and efficient UX flows
-Designed usability tests considering the team's purpose and user characteristics
-Collaborated with purpose-oriented TF team for designing service flows and producing wireframes
-UI Development using React, React Native, and ES6
-Web development experience using REST API
-Development experience using Javascript, ES6
+- Experienced building design systems
+- Capable of making prototypes and efficient UX flows
+- Designed usability tests considering the team's purpose and user characteristics
+- Collaborated with purpose-oriented TF team for designing service flows and producing wireframes
+- UI Development using React, React Native, and ES6
+- Web development experience using REST API
+- Development experience using Javascript, ES6
