@@ -1,10 +1,10 @@
 # Hi, I'm a Frontend Developer
 
 ## Career
-2023- LikeLion Frontend school / Fronend Developer
-2020-2022 Heaven Tree / UXUI Designer
-2021-2022 LikeLion 10th anniversary Hackathon / Fronend Developer
-2018-2019 Incremento.inc / Graphic Designer
+- 2023- LikeLion Frontend school / Fronend Developer
+- 2020-2022 Heaven Tree / UXUI Designer
+- 2021-2022 LikeLion 10th anniversary Hackathon / Fronend Developer
+- 2018-2019 Incremento.inc / Graphic Designer
 
 ## Skills
 Experienced building design systems
